@@ -1,0 +1,6 @@
+from qfunction import tools
+from qfunction import q_exp
+
+q =.9
+
+print(tools.list_maker(
